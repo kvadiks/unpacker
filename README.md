@@ -1,2 +1,2 @@
-# unpacker
+# Unpacker
 Program for opening archives
