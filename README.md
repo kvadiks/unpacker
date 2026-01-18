@@ -1,2 +1,2 @@
 # Unpacker
-Program for opening archives
+Program for opening and creating archive
